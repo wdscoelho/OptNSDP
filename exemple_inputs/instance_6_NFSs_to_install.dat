@@ -1,7 +1,0 @@
-set_VNF_to_install "instance_6"
-number_of_VNFs_to_install 7
-
-1 1 1 1 1 1 1 
-1 1 1 1 1 1 0 
-1 1 1 1 1 1 0 
-1 1 1 1 1 1 0 
