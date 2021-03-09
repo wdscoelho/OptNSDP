@@ -7,16 +7,29 @@ The code-source is written in Julia-JuMP language for Jupyter environment. You w
 
 
   [a076750e] CPLEX v0.7.3
+  
   [aa1b3936] GraphIO v0.5.0
+  
   [86223c79] Graphs v0.10.3
+  
   [7073ff75] IJulia v1.21.3
+  
   [4076af6c] JuMP v0.21.1
+  
   [093fc24a] LightGraphs v1.3.3
+  
   [2f5eb75a] LightGraphsFlows v0.3.1
+  
   [b8f27783] MathOptInterface v0.9.14
+  
   [fdba3010] MathProgBase v0.7.8
+  
   [626554b9] MetaGraphs v0.6.5
+  
   [0db19996] NBInclude v2.2.0
+  
   [fae87a5f] ParserCombinator v2.0.0
+  
   [47aef6b3] SimpleWeightedGraphs v1.1.1
+  
   [9a3f8284] Random
