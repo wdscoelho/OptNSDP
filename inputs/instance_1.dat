@@ -1,0 +1,10 @@
+number_of_requests 4
+
+slice_request 1 id 1 total_amount_of_UE 3905 min_bandwidth 5.9 VNF_types_to_install  "../instances/medium_small/instance_1_NFSs_to_install.dat" VNFs_to_connect  "../instances/medium_small/instance_1_NFSs_to_connect.dat" VNF_sharing  "../instances/medium_small/instance_1_NFS_sharing_slice1.dat" commodities  "../instances/medium_small/instance_1_commodities_slice1.dat" maxLatencyDataLayer 6.8 nodeSharing  "../instances/medium_small/instance_1_node_sharing.dat"
+
+slice_request 2 id 2 total_amount_of_UE 9857 min_bandwidth 9.7 VNF_types_to_install  "../instances/medium_small/instance_1_NFSs_to_install.dat" VNFs_to_connect  "../instances/medium_small/instance_1_NFSs_to_connect.dat" VNF_sharing  "../instances/medium_small/instance_1_NFS_sharing_slice2.dat" commodities  "../instances/medium_small/instance_1_commodities_slice2.dat" maxLatencyDataLayer 6.8 nodeSharing  "../instances/medium_small/instance_1_node_sharing.dat"
+
+slice_request 3 id 3 total_amount_of_UE 3817 min_bandwidth 7.5 VNF_types_to_install  "../instances/medium_small/instance_1_NFSs_to_install.dat" VNFs_to_connect  "../instances/medium_small/instance_1_NFSs_to_connect.dat" VNF_sharing  "../instances/medium_small/instance_1_NFS_sharing_slice3.dat" commodities  "../instances/medium_small/instance_1_commodities_slice3.dat" maxLatencyDataLayer 8.8 nodeSharing  "../instances/medium_small/instance_1_node_sharing.dat"
+
+slice_request 4 id 4 total_amount_of_UE 7412 min_bandwidth 9.1 VNF_types_to_install  "../instances/medium_small/instance_1_NFSs_to_install.dat" VNFs_to_connect  "../instances/medium_small/instance_1_NFSs_to_connect.dat" VNF_sharing  "../instances/medium_small/instance_1_NFS_sharing_slice4.dat" commodities  "../instances/medium_small/instance_1_commodities_slice4.dat" maxLatencyDataLayer 3.9 nodeSharing  "../instances/medium_small/instance_1_node_sharing.dat"
+
